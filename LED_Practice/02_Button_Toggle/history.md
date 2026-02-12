@@ -7,4 +7,5 @@ led_state가 누를 때 바뀌는 것이 아니라 뗐을 때 바뀌는 것으�
 
 - 간격이 너무 짧으면 채터링 위험성
 
-![Uploading image.png…]()
+<img width="708" height="568" alt="image" src="https://github.com/user-attachments/assets/dae26992-3efe-4f5e-bdb5-0622387eb663" />
+
